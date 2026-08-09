@@ -19,4 +19,4 @@ if __name__ == "__main__":
 
     # Calculer et imprimer l'erreur absolue moyenne
     mae = mean_absolute_error(y_test, y_pred)
-    print(f"Erreur absolue moyenne sur l'ensemble de test : {mae}")
+    print(f"Erreur absolue moyenne sur l'ensemble de test : {mae}")#impression
